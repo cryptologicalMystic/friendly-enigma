@@ -102,13 +102,14 @@ aVocab[intCat][1][intIncr++] = `The Gardener`
 aVocab[intCat][1][intIncr++] = `The Nazarene`
 aVocab[intCat][1][intIncr++] = `The Way`
 aVocab[intCat][1][intIncr++] = `He Who Waits`
+aVocab[intCat][1][intIncr++] = `The Archivist`
 
 intCat++
 intIncr = 0
 aVocab[intCat] = new Array();
 aVocab[intCat][0] = "three"
 aVocab[intCat][1] = new Array();
-aVocab[intCat][1][intIncr++] = `The Kid`
+aVocab[intCat][1][intIncr++] = `The Kid", or "The All-seeing Eye`
 aVocab[intCat][1][intIncr++] = `The Philosopher Scientist`
 aVocab[intCat][1][intIncr++] = `The Beacon`
 aVocab[intCat][1][intIncr++] = `The Hermit`
@@ -124,6 +125,7 @@ aVocab[intCat][1][intIncr++] = `Frost`
 aVocab[intCat][1][intIncr++] = `The Collector`
 aVocab[intCat][1][intIncr++] = `The Gangster`
 aVocab[intCat][1][intIncr++] = `The Veteran`
+aVocab[intCat][1][intIncr++] = `The Annalist`
 
 intCat++
 intIncr = 0
@@ -134,6 +136,7 @@ aVocab[intCat][1][intIncr++] = `Blackbird`
 aVocab[intCat][1][intIncr++] = `The Ordinary Man`
 aVocab[intCat][1][intIncr++] = `The Entrepreneur", or "The Treasurer`
 aVocab[intCat][1][intIncr++] = `Manifest Destiny`
+aVocab[intCat][1][intIncr++] = `The Black Cat`
 
 intCat++
 intIncr = 0
@@ -155,7 +158,7 @@ aVocab[intCat][1][intIncr++] = `The Unlikely`
 aVocab[intCat][1][intIncr++] = `The Professor", or "The Heretic`
 aVocab[intCat][1][intIncr++] = `Teeth`
 aVocab[intCat][1][intIncr++] = `The Cardinal`
-aVocab[intCat][1][intIncr++] = `Harold Holt`
+aVocab[intCat][1][intIncr++] = `The Immortal", or "Harold Holt`
 
 intCat++
 intIncr = 0
@@ -166,17 +169,20 @@ aVocab[intCat][1][intIncr++] = `The Newbie", or "The Lesser`
 aVocab[intCat][1][intIncr++] = `Magnolia`
 aVocab[intCat][1][intIncr++] = `Dogwood`
 aVocab[intCat][1][intIncr++] = `The Terse`
+aVocab[intCat][1][intIncr++] = `The Forgotten`
+aVocab[intCat][1][intIncr++] = `The Heretic`
 
 intCat++
 intIncr = 0
 aVocab[intCat] = new Array();
 aVocab[intCat][0] = "nine"
 aVocab[intCat][1] = new Array();
-aVocab[intCat][1][intIncr++] = `The Outsider" / "The Ordinary`
+aVocab[intCat][1][intIncr++] = `The Outsider", or "The Ordinary`
 aVocab[intCat][1][intIncr++] = `Misfortune`
 aVocab[intCat][1][intIncr++] = `The Lovers", or "Willow`
 aVocab[intCat][1][intIncr++] = `Out-of-Place`
 aVocab[intCat][1][intIncr++] = `The Secret Keeper`
+aVocab[intCat][1][intIncr++] = `The Oracle`
 
 intCat++
 intIncr = 0
@@ -200,6 +206,8 @@ aVocab[intCat][1][intIncr++] = `The Senator`
 aVocab[intCat][1][intIncr++] = `Jings`
 aVocab[intCat][1][intIncr++] = `The Keeper", or "The Warden`
 aVocab[intCat][1][intIncr++] = `The Bureaucrat`
+aVocab[intCat][1][intIncr++] = `The Recluse`
+aVocab[intCat][1][intIncr++] = `The Turncloak`
 
 intCat++
 intIncr = 0
@@ -211,6 +219,7 @@ aVocab[intCat][1][intIncr++] = `Adam`
 aVocab[intCat][1][intIncr++] = `The Contractor`
 aVocab[intCat][1][intIncr++] = `The Trainman", or "The Conductor`
 aVocab[intCat][1][intIncr++] = `The Physician`
+aVocab[intCat][1][intIncr++] = `Cyrus`
 
 intCat++
 intIncr = 0
@@ -236,3 +245,9 @@ aVocab[intCat][1][intIncr++] = `Frederick Williams`
 aVocab[intCat][1][intIncr++] = `Agnes Peterson`
 aVocab[intCat][1][intIncr++] = `Kismet`
 aVocab[intCat][1][intIncr++] = `Spider`
+aVocab[intCat][1][intIncr++] = `The Middleman`
+aVocab[intCat][1][intIncr++] = `The Archaeologist`
+aVocab[intCat][1][intIncr++] = `The Duke`
+aVocab[intCat][1][intIncr++] = `@DATA LOST`
+aVocab[intCat][1][intIncr++] = `The Failsafe`
+aVocab[intCat][1][intIncr++] = `Ethan Horowitz", or "SEPULCHRATION.()`
